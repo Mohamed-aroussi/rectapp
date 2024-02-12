@@ -1,0 +1,176 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#logo {
+  width: 90px;
+  margin-top: 30px;
+  margin-left: 200px;
+}
+
+
+
+
+
+#hero{
+  background-color: #ba151b;
+}
+
+
+
+
+#text{
+  margin-top: 100px;
+}
+
+
+#pack1{
+  background-color: #ba151b;
+  width: 379px;
+  height: 487px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+
+
+#pack2{
+  background-color: #ffffff;
+  border: black solid 5px;
+  width: 379px;
+  height: 487px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+
+
+#pack3{
+  background-color: #ba151b;
+  width: 379px;
+  height: 487px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+
+#col-text1{
+  color: white;
+  font-size: 31px;
+  margin-left: 88px;
+  margin-top: 20px;
+
+}
+
+#col-text2{
+  color: rgb(0, 0, 0);
+  font-size: 31px;
+  margin-left: 88px;
+  margin-top: 20px;
+
+}
+
+#col-text3{
+  color: white;
+  font-size: 31px;
+  margin-left: 88px;
+  margin-top: 20px;
+
+}
+
+
+
+#prix1{
+  margin-top: 30px;
+  margin-right: 150px;
+  font-size: 25px;
+  margin-left: 29px;
+}
+
+#prix2{
+  margin-top: 30px;
+  margin-left: 138px;
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+}
+
+#prix3{
+  margin-top: 30px;
+  margin-left: 138px;
+  font-size: 25px;
+  color: white;
+}
+
+
+#skils{
+  margin-right: 220px;
+  font-size: 50px;
+  color:white;
+  margin-top: 30px;
+  
+}
+
+
+#skils2{
+  margin-right: 220px;
+  font-size: 50px;
+  color:rgb(0, 0, 0);
+  margin-top: 30px;
+  
+}
+
+
+
+#btn-pack3{
+  margin-left: 78px;
+  width: 200px;
+  height: 50px;
+  margin-top: 55px;
+}
+
+
+#btn-pack2{
+  margin-left: 78px;
+  width: 200px;
+  height: 50px;
+  margin-top: 55px;
+}
+
+
+#btn-pack1{
+  margin-left: 78px;
+  width: 200px;
+  height: 50px;
+  margin-top: 55px;
+}
+
+
+ 
+ 
+
+
+
+
